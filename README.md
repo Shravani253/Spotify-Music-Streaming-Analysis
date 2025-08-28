@@ -10,6 +10,7 @@ Objective:
 To classify songs as "hit" or "not hit" based on their number of streams using machine learning techniques.
 
 Methodology:
+
 Data Exploration – examined dataset structure, summary stats, and distributions.
 Data Cleaning – handled missing/invalid values and standardized data.
 Forecasting – created a target column (1 = hit, 0 = not hit) by comparing streams against the average; applied Random Forest Classifier to predict outcomes.
